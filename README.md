@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I am learning how to take my love of art and design and transfer it into web and/or app development. Any and all feedback on my projects are welcome!
 <!--
 **jordantlbt/JordanTlbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
